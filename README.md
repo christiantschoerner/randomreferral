@@ -9,6 +9,7 @@ thanks for checking out the project on GitHub. Here you can find TODOs, Changelo
 ## TODOs
 - Option to show full name in "My Account" with (not only firstname)
 - Create MetaManager (+ Multi-Language Support)
+- Option to add Code without logging in to Tesla
 
 ## Changelog
 ### 26.7.2020 - 23:23 (MEZ)
