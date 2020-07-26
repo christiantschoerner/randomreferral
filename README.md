@@ -8,5 +8,5 @@ thanks for checking out the project on GitHub. Here you can find TODOs, Changelo
 - 2
 
 ## Changelog
-### 26.7.2020 : 23:23 
+### 26.7.2020 - 23:23 (MEZ)
 Website is online - nice
