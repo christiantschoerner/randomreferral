@@ -11,6 +11,9 @@ thanks for checking out the project on GitHub. Here you can find TODOs, Changelo
 - Better way to fetch existing referrals (DONE?!)
 
 ## Changelog
+### 28.7.2020 - 00:55 (MEZ)
+If a code has no contact email address it will no longer be displayed as empty field
+
 ### 28.7.2020 - 00:36 (MEZ)
 Fixed an issue which prevented users from using special characters in delete password<br>
 Implemented Beta Method to Fetch Referral Data 5829% faster!
