@@ -8,10 +8,12 @@ thanks for checking out the project on GitHub. Here you can find TODOs, Changelo
 
 ## TODOs
 - Create MetaManager (+ Multi-Language Support)
-- Delete Code from Database page
 - Better way to fetch existing referrals
 
 ## Changelog
+### 27.7.2020 - 17:45 (MEZ)
+Added Page to delete code with delete password. Also fixed some texts and wrote some new :)
+
 ### 27.7.2020 - 1:57 (MEZ)
 Tesla Login removed completely based on user feedback.
 
