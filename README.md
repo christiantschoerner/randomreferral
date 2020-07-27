@@ -12,7 +12,7 @@ thanks for checking out the project on GitHub. Here you can find TODOs, Changelo
 
 ## Changelog
 ### 28.7.2020 - 00:36 (MEZ)
-Fixed an issue which prevented users from using special characters in delete password
+Fixed an issue which prevented users from using special characters in delete password<br>
 Implemented Beta Method to Fetch Referral Data 5829% faster!
 
 ### 27.7.2020 - 17:45 (MEZ)
