@@ -12,8 +12,8 @@ thanks for checking out the project on GitHub. Here you can find TODOs, Changelo
 
 ## Changelog
 ### 4.8.2020 - 22:30 (MEZ)
-Added a personal message on top of the landing page
-Fixed an issue where the card view was on top of the menu bar when adding a code
+Added a personal message on top of the landing page<br>
+Fixed an issue where the card view was on top of the menu bar when adding a code<br>
 Fixed an issue where people who use Internet Explorer (Stop it) could not see the randomized code
 
 ### 28.7.2020 - 00:55 (MEZ)
