@@ -8,7 +8,7 @@ thanks for checking out the project on GitHub. Here you can find TODOs, Changelo
 
 ## TODOs
 - Create MetaManager (+ Multi-Language Support)
-- Better way to fetch existing referrals (DONE?!)
+- ~~Better way to fetch existing referrals (DONE?!)~~ 
 
 ## Changelog
 ### 4.8.2020 - 22:30 (MEZ)
