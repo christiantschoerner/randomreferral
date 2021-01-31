@@ -11,6 +11,10 @@ thanks for checking out the project on GitHub. Here you can find TODOs, Changelo
 - ~~Better way to fetch existing referrals (DONE?!)~~ 
 
 ## Changelog
+### 31.1.2021 - 1:41 (MEZ)
+Fixed some spelling issues<br>
+Added counter for clicked links
+
 ### 4.8.2020 - 22:30 (MEZ)
 Added a personal message on top of the landing page<br>
 Fixed an issue where the card view was on top of the menu bar when adding a code<br>
