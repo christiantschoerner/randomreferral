@@ -4,13 +4,16 @@ Hey,
 thanks for checking out the project on GitHub. Here you can find TODOs, Changelogs and create issues. 
 
 ## Known Issues
-- Link and Last Updated not always fully visible on mobile in vertical view (open in new tab works nevertheless)
+- ~~Link and Last Updated not always fully visible on mobile in vertical view (open in new tab works nevertheless)~~
 
 ## TODOs
 - Create MetaManager (+ Multi-Language Support)
 - ~~Better way to fetch existing referrals (DONE?!)~~ 
 
 ## Changelog
+### 7.3.2021 - 1:12 (MEZ)
+Fixed an issue where the referral link was not always visible on mobile
+
 ### 31.1.2021 - 1:41 (MEZ)
 Fixed some spelling issues<br>
 Added counter for clicked links
